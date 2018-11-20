@@ -18,9 +18,8 @@ https://github.com/FastLED/FastLED/wiki/FastLED-Color-Correction
 ### Premier test
 
 #### Montage
-
+Commencer par réaliser le montage suivant : https://github.com/alexgit95/christmas_project/blob/master/Montages/montageLed.PNG
 #### Code
-
 Recuperer le code du serpent : https://github.com/alexgit95/christmas_project/blob/master/Snippet/serpent.ino
 
 Il n'y a plus qu'à verser sur l'arduino et c'est parti !
