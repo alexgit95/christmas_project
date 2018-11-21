@@ -8,6 +8,10 @@ Vous aurez besoin :
 - 1 Arduino Uno http://amzn.eu/d/i5jxBHh
 - 1 bande led http://amzn.eu/d/epV8oWh
 - 1 Alimentation 12V 5A
+
+#### Vous pourriez avoir besoin
+Pour fabriquer des rallonges pour l'alimentation des leds  : http://amzn.eu/d/83QCUha
+
 ### Avant de commencer
 Tout d'abord penser à calibrer votre led :
 https://github.com/FastLED/FastLED/blob/master/examples/RGBCalibrate/RGBCalibrate.ino
