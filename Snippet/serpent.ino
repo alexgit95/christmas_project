@@ -42,7 +42,7 @@ void loop() {
          leds[positiontete+TAILLE_SERPENT]=CRGB::Wheat;
         }
         //on allume position tete
-        leds[positiontete-TAILLE_SERPENT]=CRGB::White;
+        leds[positiontete]=CRGB::White;
 
         
         FastLED.show();
