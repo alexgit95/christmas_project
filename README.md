@@ -6,7 +6,7 @@ Mon projet pour Noel
 ### Matériel
 Vous aurez besoin :
 - 1 Arduino Uno http://amzn.eu/d/i5jxBHh
-- 1 bande led http://amzn.eu/d/epV8oWh
+- 1 bande led http://amzn.eu/d/epV8oWh à remplacer par http://amzn.eu/d/iVtQyhz
 - 1 Alimentation 12V 5A
 
 #### Vous pourriez avoir besoin
