@@ -12,6 +12,11 @@ Vous aurez besoin :
 #### Vous pourriez avoir besoin
 Pour fabriquer des rallonges pour l'alimentation des leds  : http://amzn.eu/d/83QCUha
 
+Une alimentation 5V 40A : http://amzn.eu/d/gm8GYq0
+A savoir que les WS2812B sont en 5V, bien verifier qu'elle sont individuellement adressable, et que chaque "led" consomme 60ma
+Pour une bande de 5 m * 60 leds par metre on aura donc besoin de 5 * 60(led/m) * 0.06 = 18A
+Sachant que la plupart des alimentation on 2 sorties, 40Amp me semble etre la bonne solution
+
 ### Avant de commencer
 Tout d'abord penser à calibrer votre led :
 https://github.com/FastLED/FastLED/blob/master/examples/RGBCalibrate/RGBCalibrate.ino
