@@ -4,39 +4,57 @@
 
 ### Electricité 
 Acheter remplacement pile par courant pour :
-- Père Noel
-- Sapin atelier
-- Feu cheminée atelier
+
+| Personnage  | Taille | Acheté? |
+| ------------- | ------------- | ------------- |
+| Pere Noel  | AA?  | |
+| Sapin Atelier   | AAA?  | |
+| Feu cheminée atelier  | Special  | |
+
 
 ### Leds
-- Prevoir led long thierry (à mesurer)
-- Prevoir led petit sapin( 3x 1m)
-- Prevoir led encadrement fenetre (à mesurer)
+
+| Emplacement  | Nombre | Taille | Lien | Acheté? |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Long de chez Thierry | 2? | 5m | | |
+| Petit sapin | 3 | 1m | | |
+| Encadrement Fenetre | 3? | 5m? | | |
 
 ### Autre 
-Prevoir petite tige filetée :
-- 2 pour olaf
-- 1 cygne
-- 3 pour petits sapins
-Prevoir grande tige filetée :
-- 1 pour arbre bassin
-- 1 pour pere noel
-- 1 pour nutcracker
+Acheter tiges filetées :
 
-Prévoir arche le long de thierry (tube en polyuréthane? transparent?)
+| Personnage  | Taille | Acheté? |
+| ------------- | ------------- | ------------- |
+| Olaf x2  | petite  | |
+| Cygne   | petite  | |
+| Sapin x3  | petite  | |
+| Arbre bassin  | grande  | |
+| Père Noel  | grande  | |
+| Casse Noisette  | grande  | |
 
-Racheter projecteur (30 euros)
+Autres Objets :
 
-Acheter comped
+| Objet  | Lien | Acheté? |
+| ------------- | ------------- | ------------- |
+| Arches Thierry (en polyuréthane? transparent?) | | |
+| Projecteur | | |
+| Plexiglas | | |
+| Comped | | |
+| Attaches parisiennes blanches | | |
 
-Prevoir attache parisienne blanche
+
 
 Acheter caisse (verifier taille):
-- 2-3 exterieur
-- 1 deco sapin
-- 1 deco foret
-- 1 deco automne
-- 1 deco table
+
+| Emplacement  | Nombre |  Acheté? |
+| ------------- | ------------- | ------------- |
+| exterieur | 3 ||
+| Deco Sapin | 1 ||
+| Foret | 1 ||
+| Automne | 1 ||
+| Table | 1 ||
+
+
 
 
 ### Projets
