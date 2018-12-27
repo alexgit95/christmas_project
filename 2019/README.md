@@ -31,6 +31,7 @@ Acheter tiges filetées :
 | Arbre bassin  | grande  | |
 | Père Noel  | grande  | |
 | Casse Noisette  | grande  | |
+| Tom et Nana (x2)  | grande  | |
 
 Autres Objets :
 
