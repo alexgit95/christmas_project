@@ -49,11 +49,11 @@ Acheter caisse (verifier taille):
 
 | Emplacement  | Nombre |  Acheté? |
 | ------------- | ------------- | ------------- |
-| exterieur | 3 ||
-| Deco Sapin | 1 ||
-| Foret | 1 ||
-| Automne | 1 ||
-| Table | 1 ||
+| exterieur | 2 |X|
+| Deco Sapin | 1 |X|
+| Foret | 1 |X|
+| Automne | 1 |X|
+| Table | 1 |X|
 
 
 
