@@ -45,15 +45,16 @@ Autres Objets :
 
 
 
-Acheter caisse (verifier taille):
+Acheter caisse (https://urlz.fr/8xZ1  ):
 
 | Emplacement  | Nombre |  Acheté? |
 | ------------- | ------------- | ------------- |
 | exterieur | 2 |X|
+|Maison Pere Noel | 2 |X|
 | Deco Sapin | 1 |X|
 | Foret | 1 |X|
-| Automne | 1 |X|
-| Table | 1 |X|
+| Automne | 1 ||
+| Table | 1 ||
 
 
 
