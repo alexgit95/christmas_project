@@ -40,7 +40,7 @@ Autres Objets :
 | Arches Thierry (en polyuréthane? transparent?) | | |
 | Projecteur | | |
 | Plexiglas | | |
-| Comped | | |
+| Comped |https://urlz.fr/8xZ2|X|
 | Attaches parisiennes blanches | | |
 
 
